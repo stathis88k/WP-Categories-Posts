@@ -9,7 +9,7 @@
       
       /* Version check */
       global $wp_version;
-      $exit_msg='WP Blazing Player requires WordPress 2.5 or newer.
+      $exit_msg='WP Categories requires WordPress 2.5 or newer.
       <a href="http://codex.wordpress.org/Upgrading_WordPress">Please
       update!</a>';
       
