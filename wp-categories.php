@@ -81,4 +81,5 @@
       
       //finally return the buffer contents and delete the output buffer
       return ob_get_clean(); 
-} // end of the function ?>
+} // end of the function
+?>
